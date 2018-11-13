@@ -1,6 +1,6 @@
 {
   "name": "@webwingscz/googlefont-montserrat",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Google Font Monstserrat Family package",
   "main": "index.js",
   "scripts": {
