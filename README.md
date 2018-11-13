@@ -11,7 +11,7 @@ npm install @webwingscz/googlefont-montserrat
 Include montserrat.scss in your index.html  
   
 ```
-"../node_modules/wfk-montserrat/montserrat.css"
+"../node_modules/@webwingscz/googlefont-montserrat/montserrat.scss"
 ```
 
   
