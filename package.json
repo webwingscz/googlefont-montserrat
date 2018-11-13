@@ -1,0 +1,26 @@
+{
+  "name": "@webwingscz/googlefont-montserrat",
+  "version": "1.0.0",
+  "description": "Google Font Monstserrat Family package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webwingscz/googlefont-montserrat.git"
+  },
+  "keywords": [
+    "WebFont",
+    "Kit",
+    "Google",
+    "Fonts",
+    "Montserrat"
+  ],
+  "author": "Martin Bargl <bargl@webwings.cz> (https://webwings.cz/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webwingscz/googlefont-montserrat/issues"
+  },
+  "homepage": "https://github.com/webwingscz/googlefont-montserrat#readme"
+}
