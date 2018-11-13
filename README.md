@@ -18,13 +18,13 @@ Include montserrat.scss in your index.html
 If you want to use the font by including into scss files, use:  
   
 ```
-@import "~@webwingscz/googlefont-montserrat"
+@import "~@webwingscz/googlefont-montserrat/montserrat.css"
 ```
 
 
 If you plane to user this font for headlines only, include simplified package, which contains only light, semibold and black version   
   
 ```
-@import "~@webwingscz/googlefont-montserrat/montserrat-headlines"
+@import "~@webwingscz/googlefont-montserrat/montserrat-headlines.css"
 ```
   
